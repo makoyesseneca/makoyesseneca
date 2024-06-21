@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning PROGRAMMING
 -  I’m looking to collaborate on PROJECTS
 - 📫 How to reach me makoyes@myseneca.ca
-- ⚡ Fun fact: SENECA COLLEGE
+- ⚡ SENECA COLLEGE
 
 <!---
 makoyesseneca/makoyesseneca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
